@@ -53,3 +53,6 @@ O projeto está organizado em pacotes:
 # Contribuição
 
  - Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar issues.
+
+# Imagem do Sistema:
+![Captura de Tela (3)](https://github.com/user-attachments/assets/844bed55-05a0-4be4-acf7-50374b86b2a3)
