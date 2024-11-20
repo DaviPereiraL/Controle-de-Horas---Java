@@ -27,7 +27,7 @@ O projeto está organizado em pacotes:
 
 2. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/controle-de-horas.git
+   git clone https://github.com/DaviPereiraL/Controle-de-Horas---Java.git
    cd controle-de-horas
    ```
 
